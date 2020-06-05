@@ -33,3 +33,5 @@ class myClass {
 }
 $oi = new myClass();
 echo $oi->doSomething("^");
+
+$variavelName = "Thiago";
